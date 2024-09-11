@@ -1,0 +1,6 @@
+[book]
+authors = ["Luca BRUNO"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Learn Quint"
